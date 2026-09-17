@@ -27,5 +27,6 @@
  [EM BREVE](Link) | Breve descrição | `..........`
 
 ## Como falar comigo 
-- [linkedin]()
+- [linkedin](https://www.linkedin.com/in/guilherme-da-silva-luz-274ab7218/)
 - `guilhermeluz2003@gmail.com`
+- 
