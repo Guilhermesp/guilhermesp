@@ -15,10 +15,10 @@
 ![Google Gemini Badge](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=fff&style=flat)
 
 ## Meu Roadmap (Próximos 6 meses)
-- [x] Mapear minha carreira em um Canvas 
+- [ ] Mapear minha carreira em um Canvas 
 - [x]  Criar um README de perfil no github
 - [ ]  Subir 2 projetos completos no GitHub (com documentação)
-- [ ]  Melhorar meu nível de ingles
+- [x]  Melhorar meu nível de ingles
 - [ ]  Estudar algoritmos 
  
  ## Projetos em Destaques 
